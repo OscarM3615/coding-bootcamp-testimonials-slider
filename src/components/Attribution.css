@@ -1,5 +1,8 @@
 .attribution {
-	height: 5vh;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	padding: 10px;
 	font-size: 11px;
 	text-align: center;
 }
